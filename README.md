@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro 👋
 
-Also known as atralex, I am a passionate FullStack Developer with experience in NodeJS (JavaScript and TypeScript), Python, Flask, and React.
+Also known as atralex, I am a passionate FullStack Developer.
 
 ## 🚀 About Me
 - 🎮 Video game enthusiast.
@@ -20,7 +20,7 @@ Also known as atralex, I am a passionate FullStack Developer with experience in 
 
 ### Deployment and Operating Systems
 - Proficient in deploying applications, with a focus on efficient and reliable deployment processes.
-- Fluent in Linux, particularly in Debian and Ubuntu distributions, enhancing my ability to manage and maintain robust server environments.
+- Fluent in Linux, particularly in Debian and Ubuntu distributions.
 
 ## 📫 Contact
 - LinkedIn: [Alejandro Rodríguez González](https://www.linkedin.com/in/alejandro-rodriguez-gonzalez-500b6621a/)
