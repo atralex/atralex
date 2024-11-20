@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro 👋
 
-Also known as atralex, I am a passionate FullStack Developer.
+Also known as atralex, I am a passionate Backend Developer.
 
 ## 🚀 About Me
 - 🎮 Video game enthusiast.
@@ -12,7 +12,6 @@ Also known as atralex, I am a passionate FullStack Developer.
 ### Programming and Frameworks
 - Backend with JavaScript/TypeScript and Node.js (Express)
 - Backend with Python and Flask
-- Web application development with React
 
 ### Databases and IoT
 - Database management with MySQL and MongoDB
