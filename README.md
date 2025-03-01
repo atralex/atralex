@@ -10,12 +10,13 @@ Also known as atralex, I am a passionate Backend Developer.
 
 ## 🛠 Skills
 ### Programming and Frameworks
+- Frontend with ReactJS and ReactTS
 - Backend with JavaScript/TypeScript and Node.js (Express)
 - Backend with Python and Flask
 
 ### Databases and IoT
-- Database management with MySQL and MongoDB
-- AWS SQS
+- Database management with MySQL, PostgreSQL, MongoDB, Redis and DynamoDB
+- AWS
 - IoT solutions with Fiware and Node-Red
 
 ### Deployment and Operating Systems
